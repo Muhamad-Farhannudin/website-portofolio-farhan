@@ -18,7 +18,7 @@ function App() {
       {isLoading ? (
         <LoadingAnimation />
       ) : (
-        <div className="bg-dark w-full p-10 md:p-24 h-[6300px] md:h-[4900px] lg:h-[3700px] mx-auto min-h-screen max-w-screen-2xl">
+        <div className="bg-dark w-full p-10 md:p-24 h-[6350px] md:h-[4900px] lg:h-[3700px] mx-auto min-h-screen max-w-screen-2xl">
           <SideBar />
           <Content />
         </div>

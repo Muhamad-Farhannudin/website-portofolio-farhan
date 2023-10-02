@@ -1,7 +1,7 @@
 {
   "projects" : [
     {
-      "project_name" : "Semina CMS Admin Dashboard Website Project",
+      "project_name" : "CMS Semina Admin Dashboard",
       "description" : [
         "This project involved the development of a comprehensive Content Management System (CMS) Admin Dashboard for Semina. The website includes a secure login system with Authentication and Authorization features, ensuring data security and access control. It incorporates a 'refresh token' feature to enhance security and user experience.",
         "The dashboard facilitates CRUD (Create, Read, Update, Delete) operations for crucial entities such as Categories, Talents, Payments, Events, and Orders. This ensures efficient management and organization of Semina's data and operations.",
