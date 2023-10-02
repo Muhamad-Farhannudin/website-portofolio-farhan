@@ -59,6 +59,7 @@ export default function index() {
                             target="_blank"
                             rel="noreferrer"
                             aria-label={archive.name}
+                            key={index4}
                           >
                             <span>
                               {" "}
