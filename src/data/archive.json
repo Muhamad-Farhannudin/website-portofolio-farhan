@@ -55,7 +55,7 @@
       "stack": ["ReactJs", "TailwindCss", "Javascript"],
       "link" : [
         {
-          "name" : "farhan-ecommerce.netlify.app",
+          "name" : "farhan-ecommerce.app",
           "link_href" : "https://farhan-ecommerce.netlify.app/"
         }
       ]

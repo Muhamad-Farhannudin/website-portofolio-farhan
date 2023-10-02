@@ -1,5 +1,9 @@
 {
-  "name": "Muhamad Farhannudin",
-  "title": "FrontEnd Developer",
-  "skills": "Passionate FrontEnd Developer | ReactJS & Node.js Enthusiast | Creating Dynamic Web Experiences with React | Building Scalable Solutions with Node.js | Crafting Tomorrow's Web Today 🚀"
+  "about": [
+    {
+      "name": "Muhamad Farhannudin",
+      "title": "FrontEnd Developer",
+      "skills": "Passionate FrontEnd Developer | ReactJS & Node.js Enthusiast | Creating Dynamic Web Experiences with React | Building Scalable Solutions with Node.js | Crafting Tomorrow's Web Today 🚀" 
+    }
+  ]
 }
