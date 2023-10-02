@@ -11,3 +11,14 @@
 .inter {
   font-family: "Inter", sans-serif;
 }
+
+/* Untuk browser WebKit (Chrome, Safari) */
+::-webkit-scrollbar {
+  display: none; /* Menyembunyikan scrollbar */
+}
+
+/* Untuk Firefox */
+body {
+  scrollbar-width: thin; /* Atau 'auto' jika ingin scrollbar tetap muncul jika ada scroll */
+  scrollbar-color: transparent transparent; /* Warna scroll thumb dan track */
+}

@@ -7,8 +7,8 @@ import experiencesData from "../../data/experience.json";
 export default function index() {
   const experiences = experiencesData.experiences;
   return (
-    <Fade right duration={2000} delay={1000}>
-      <div id="experience" className="w-[75%] lg:w-[50%] pt-24 absolute top-[300%] md:top-[90%] lg:right-24" aria-label="Work experience">
+    <Fade right duration={1000} delay={500}>
+      <div id="experience" className="w-[75%] lg:w-[50%] pt-24 absolute top-[300%] md:top-[180%] lg:top-[90%] lg:right-24" aria-label="Work experience">
         <div className="sticky top-0 z-20 -mx-6 mb-4 bg-slate-900/75 px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
           <h2 className="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only">Experience</h2>
         </div>
