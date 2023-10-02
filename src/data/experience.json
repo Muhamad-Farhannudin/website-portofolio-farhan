@@ -1,0 +1,49 @@
+{
+  "experiences": [
+    {
+      "company_name": "CV. Bina Kreativ Berkah",
+      "entry_years" : "July 2018 - present",
+      "title" : "Online Shop Marketing",
+      "positions": [
+        { 
+          "position" : "● Facebook Fanspage Management",
+          "entry_year": "Worked for 1 year",
+          "description": [
+            "○ Managed the Facebook fanspage, including responding to comments and messages.",
+            "○ Assisted customers on Facebook to make purchases or provided admin contact for personalized assistance."
+          ],
+          "stack": ["Facebook", "Google Spreadsheet"]
+        },
+        { 
+          "position" : "● Website Development Team with Elementor",
+          "entry_year": "Worked for 2,5 year",
+          "description": [
+            "○ Created product-based selling websites, for instance, cosmetics, household appliances, medicines, and more.",
+            "○ Ensured the website had a button that directed to WhatsApp for easier customer interaction.",
+            "○ Conducted research to identify trending products in the market."
+          ],
+          "stack": ["Wordpress", "Elementor", "Microsoft Power Point", "Canva"]
+        },
+        { 
+          "position" : "● Marketplace Management on Shopee and Lazada",
+          "entry_year": "Worked for 1,5 year",
+          "description": [
+            "○ Marketplace Management on Shopee and Lazada.",
+            "○ Optimized product appearance and sales strategies to increase visibility and sales."
+          ],
+          "stack": ["Shopee", "Shopee Seller", "Lazada", "Lazada Seller", "Google Spreadsheet"]
+        },
+        { 
+          "position" : "● Facebook Ads Campaign Management",
+          "entry_year": "Worked for 4 mouth",
+          "description": [
+            "○ Facebook Ads Campaign Management.",
+            "○ Analyzed campaign performance and made strategic changes to improve advertising effectiveness.",
+            "○ Recorded expenses on the Facebook advertising platform and analyzed the results."
+          ],
+          "stack": ["Facebook Ads", "Photoshop", "Capcut", "Google Spreadsheet", "Chat GPT"]
+        }
+      ]
+    }
+  ]
+}

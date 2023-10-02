@@ -1,0 +1,136 @@
+{
+  "archives" : [
+    {
+      "year" : "2023",
+      "project" : "Website CMS Semina",
+      "made" : "Build With Angga",
+      "stack": ["ReactJs", "ExpressJS", "NodeJs", "MongoDB", "Redux", "Bootstrap5", "Javascript"],
+      "link" : [
+        {
+          "name" : "client-semina.app",
+          "link_href" : "https://client-semina-mu.vercel.app"
+        }
+      ]
+    },
+    {
+      "year" : "2023",
+      "project" : "Landingpage Semina",
+      "made" : "Build With Angga",
+      "stack": ["Next JS", "ReactJs", "Javascript", "Bootstrap5", "SCSS"],
+      "link" : [
+        {
+          "name" : "fe-landingpage-semina",
+          "link_href" : "https://fe-landingpage-semina-bootcamp-batch2.vercel.app/"
+        }
+      ]
+    },
+    {
+      "year" : "2022",
+      "project" : "Website Travel",
+      "made" : "Build With Angga",
+      "stack": ["ReactJs", "Redux", "Javascript", "Bootstrap4", "SCSS"],
+      "link" : [
+        {
+          "name" : "bwamern-web-travel.app",
+          "link_href" : "https://bwamern-web-travel.vercel.app/"
+        }
+      ]
+    },
+    {
+      "year" : "2022",
+      "project" : "Admin Dashboard Staycation",
+      "made" : "Build With Angga",
+      "stack": ["HTML 5", "ExpressJS", "NodeJs", "MongoDB", "Javascript", "Bootstrap5", "SCSS"],
+      "link" : [
+        {
+          "name" : "admin-server-staycation",
+          "link_href" : "https://admin-server-staycation.glitch.me/"
+        }
+      ]
+    },
+    {
+      "year" : "2022",
+      "project" : "E-Commerce UI Slicing",
+      "made" : "",
+      "stack": ["ReactJs", "TailwindCss", "Javascript"],
+      "link" : [
+        {
+          "name" : "farhan-ecommerce.netlify.app",
+          "link_href" : "https://farhan-ecommerce.netlify.app/"
+        }
+      ]
+    },
+    {
+      "year" : "2022",
+      "project" : "Simple Landing Page",
+      "made" : "Shandika Galih",
+      "stack": ["HTML 5", "CSS", "Javascript"],
+      "link" : [
+        {
+          "name" : "simple-landing-page",
+          "link_href" : "https://muhamad-farhannudin.github.io/simple-landing-page"
+        }
+      ]
+    },
+    {
+      "year" : "2022",
+      "project" : "Farhan Landingpage",
+      "made" : "Shandika Galih",
+      "stack": ["HTML 5", "CSS", "Javascript"],
+      "link" : [
+        {
+          "name" : "Farhan-landing-page",
+          "link_href" : "https://muhamad-farhannudin.github.io/farhan-landing/"
+        }
+      ]
+    },
+    {
+      "year" : "2022",
+      "project" : "Admin Dashboard",
+      "made" : "Slicing Figma",
+      "stack": ["HTML 5", "CSS", "Javascript"],
+      "link" : [
+        {
+          "name" : "admin-dashboard-farhan",
+          "link_href" : "https://admin-dashboard-farhan.netlify.app/"
+        }
+      ]
+    },
+    {
+      "year" : "2022",
+      "project" : "Portofolio v1 learn slicing",
+      "made" : "",
+      "stack": ["HTML 5", "TailwindCss", "Javascript"],
+      "link" : [
+        {
+          "name" : "portfolio-farhan-v1",
+          "link_href" : "https://muhamad-farhannudin.github.io/portfolio-tailwind-css/"
+        }
+      ]
+    },
+    {
+      "year" : "2022",
+      "project" : "Website Farhan",
+      "made" : "Learn ReactJs Beginer",
+      "stack": ["ReactJs", "CSS", "Javascript"],
+      "link" : [
+        {
+          "name" : "Website-Farhan-React",
+          "link_href" : "https://farhan-website-react.netlify.app/"
+        }
+      ]
+    },
+    {
+      "year" : "2021",
+      "project" : "Real Estate Farhan",
+      "made" : "",
+      "stack": ["Html", "TailwindCss", "Javascript"],
+      "link" : [
+        {
+          "name" : "Real-estate-farhan",
+          "link_href" : "https://muhamad-farhannudin.github.io/Real-estate-farhan"
+        }
+      ]
+    }
+  ]
+}

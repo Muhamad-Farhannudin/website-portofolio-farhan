@@ -1,0 +1,42 @@
+{
+  "projects" : [
+    {
+      "project_name" : "Semina CMS Admin Dashboard Website Project",
+      "description" : [
+        "This project involved the development of a comprehensive Content Management System (CMS) Admin Dashboard for Semina. The website includes a secure login system with Authentication and Authorization features, ensuring data security and access control. It incorporates a 'refresh token' feature to enhance security and user experience.",
+        "The dashboard facilitates CRUD (Create, Read, Update, Delete) operations for crucial entities such as Categories, Talents, Payments, Events, and Orders. This ensures efficient management and organization of Semina's data and operations.",
+        "The system caters to three user roles:",
+        "● Owner",
+        "Email: owner@gmail.com",
+        "Password: rahasia",
+        "● Organizer",
+        "Email: organizer1@gmail.com",
+        "Password: rahasia",
+        "● admin",
+        "Email: admin@gmail.com",
+        "Password: rahasia"
+      ],
+      "image" : "/images/CMS Semina.png",
+      "stack": ["ReactJs", "ExpressJS", "NodeJs", "MongoDB", "Redux", "Bootstrap5", "Javascript"],
+      "link" : "https://client-semina-mu.vercel.app"
+    },
+    {
+      "project_name" : "Landingpage Semina",
+      "description" : [
+        "In this project, I developed a travel website showcasing various travel destinations and experiences. The website features informative pages about travel destinations, customer testimonials, and a seamless checkout process. The checkout process includes essential user information such as name, email, and phone number.",
+        "Additionally, the website incorporates a transaction input menu and a feature to upload proof of payment. The data for this website is sourced from the backend server related to staycation services."],
+      "image" : "images/fe-semina.png",
+      "stack": ["Next JS", "ReactJs", "Javascript", "Bootstrap5", "SCSS"],
+      "link" : "https://fe-landingpage-semina-bootcamp-batch2.vercel.app/"
+    },
+    {
+      "project_name" : "Website Travel",
+      "description" : [
+        "In this project, I developed a travel website showcasing various travel destinations and experiences. The website features informative pages about travel destinations, customer testimonials, and a seamless checkout process. The checkout process includes essential user information such as name, email, and phone number.",
+        "Additionally, the website incorporates a transaction input menu and a feature to upload proof of payment. The data for this website is sourced from the backend server related to staycation services."],
+      "image" : "images/staycation.png",
+      "stack": ["ReactJs", "Redux", "Javascript", "Bootstrap4", "SCSS"],
+      "link" : "https://bwamern-web-travel.vercel.app/"
+    }
+  ]
+}
