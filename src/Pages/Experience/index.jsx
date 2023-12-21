@@ -74,7 +74,7 @@ export default function index() {
             ))}
           </ol>
           <div className="mt-12">
-            <a className="inline-flex items-center leading-tight font-semibold text-slate-200 group" aria-label="View Full Résumé" href="CV_Muhamad Farhannudin.pdf">
+            <a className="inline-flex items-center leading-tight font-semibold text-slate-200 group" aria-label="View Full Résumé" href="CV Muhamad Farhannudin.pdf">
               <span>
                 <span className="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">View Full </span>
                 <span className="whitespace-nowrap">
