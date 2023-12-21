@@ -3,9 +3,9 @@
     {
       "project_name" : "CMS Semina Admin Dashboard",
       "description" : [
-        "This project involved the development of a comprehensive Content Management System (CMS) Admin Dashboard for Semina. The website includes a secure login system with Authentication and Authorization features, ensuring data security and access control. It incorporates a 'refresh token' feature to enhance security and user experience.",
-        "The dashboard facilitates CRUD (Create, Read, Update, Delete) operations for crucial entities such as Categories, Talents, Payments, Events, and Orders. This ensures efficient management and organization of Semina's data and operations.",
-        "The system caters to three user roles:",
+        "Website Content Management System (CMS) Semina Dashboard. There are Authentication, Authorization, refresh token, CRUD (Create, Read, Update, Delete) features, and has 3 roles.",
+        "This website includes Fullstack Javascript using ReactJs, ExpressJs, MongoDb, and NodeJs. This project was created during Bootcamp at BWA (Build With Angga).",
+        "This system has 3 Roles:",
         "● Owner",
         "Email: owner@gmail.com",
         "Password: rahasia",
@@ -17,14 +17,13 @@
         "Password: rahasia"
       ],
       "image" : "/images/CMS Semina.png",
-      "stack": ["ReactJs", "ExpressJS", "NodeJs", "MongoDB", "Redux", "Bootstrap5", "Javascript"],
+      "stack": ["ReactJs", "ExpressJS", "NodeJs", "MongoDB", "Redux", "Bootstrap5"],
       "link" : "https://client-semina-mu.vercel.app"
     },
     {
       "project_name" : "Landingpage Semina",
       "description" : [
-        "In this project, I developed a travel website showcasing various travel destinations and experiences. The website features informative pages about travel destinations, customer testimonials, and a seamless checkout process. The checkout process includes essential user information such as name, email, and phone number.",
-        "Additionally, the website incorporates a transaction input menu and a feature to upload proof of payment. The data for this website is sourced from the backend server related to staycation services."],
+        "Seminar Landing Page Website, there is login and registration. sending OTP via email, and there is a Semina checkout feature available on the Semina CMS website. BackEnd Integration with ExpressJs."],
       "image" : "images/fe-semina.png",
       "stack": ["Next JS", "ReactJs", "Javascript", "Bootstrap5", "SCSS"],
       "link" : "https://fe-landingpage-semina-bootcamp-batch2.vercel.app/"
@@ -32,11 +31,29 @@
     {
       "project_name" : "Website Travel",
       "description" : [
-        "In this project, I developed a travel website showcasing various travel destinations and experiences. The website features informative pages about travel destinations, customer testimonials, and a seamless checkout process. The checkout process includes essential user information such as name, email, and phone number.",
-        "Additionally, the website incorporates a transaction input menu and a feature to upload proof of payment. The data for this website is sourced from the backend server related to staycation services."],
+        "The travel website was created using ReactJs, and takes data from the staycation backend server created with ExpressJS.",
+        "On this website, we can order a room according to what we want, we can order within a few days, and finally there is a total that must be paid. Then at the final stage there is uploading proof of transfer."],
       "image" : "images/staycation.png",
       "stack": ["ReactJs", "Redux", "Javascript", "Bootstrap4", "SCSS"],
       "link" : "https://bwamern-web-travel.vercel.app/"
+    },
+    {
+      "project_name" : "Social Media App",
+      "description" : [
+        "This website has login and register features, then features to add friends, delete friends, update posts, and like posts.",
+        "This project is Fullstack, because this is a MERN project. This social media app website was created with React Js, Express Js, MongoDb, and NodeJs."],
+      "image" : "images/social-media.png",
+      "stack": ["ReactJs", "ExpressJS", "MongoDB", "MaterialUI", "NodeJs", "Redux"],
+      "link" : "https://social-media-farhan.vercel.app/"
+    },
+    {
+      "project_name" : "Valorant App",
+      "description" : [
+        "This website takes data directly from the Valorant API, showcasing several Features. Such as character list, character details, abilities of each character, weapon list, and weapon details.",
+        "This website was created with NextJs, and styling using TailwindCss. The purpose of creating this website is to learn to consume APIs using NextJS."],
+      "image" : "images/valorant.png",
+      "stack": ["NextJs", "TailwindCss", "Javascript"],
+      "link" : "https://valorant-farhan.vercel.app/"
     }
   ]
 }

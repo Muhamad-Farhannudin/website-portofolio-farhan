@@ -57,11 +57,6 @@ export default function index() {
                       <div key={index1} className="mt-4">
                         <h4 className="font-medium text-teal-500">{position.position}</h4>
                         <p className="text-gray-300">{position.entry_year}</p>
-                        {position.description.map((desc, index2) => (
-                          <p key={index2} className="mt-2 text-sm leading-normal text-slate-400">
-                            {desc}
-                          </p>
-                        ))}
                         <div className="flex flex-wrap lg:flex-nowrap">
                           {position.stack.map((stacks, index3) => (
                             <ul className="mt-2 flex">
@@ -79,7 +74,7 @@ export default function index() {
             ))}
           </ol>
           <div className="mt-12">
-            <a className="inline-flex items-center leading-tight font-semibold text-slate-200 group" aria-label="View Full Résumé" href="CV_Muhamad Farhannudin FIXS.pdf">
+            <a className="inline-flex items-center leading-tight font-semibold text-slate-200 group" aria-label="View Full Résumé" href="CV_Muhamad Farhannudin.pdf">
               <span>
                 <span className="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">View Full </span>
                 <span className="whitespace-nowrap">

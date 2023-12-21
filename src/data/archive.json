@@ -2,6 +2,30 @@
   "archives" : [
     {
       "year" : "2023",
+      "project" : "Social Media App",
+      "made" : "Youtube Channel",
+      "stack": ["ReactJs", "ExpressJS", "NodeJs", "MongoDB", "Redux", "MaterialUI", "Javascript"],
+      "link" : [
+        {
+          "name" : "social-media-app",
+          "link_href" : "https://social-media-farhan.vercel.app/"
+        }
+      ]
+    },
+    {
+      "year" : "2023",
+      "project" : "Valorant App",
+      "made" : "Skill Test FrontEnd",
+      "stack": ["NextJs", "TailwindCss", "Javascript"],
+      "link" : [
+        {
+          "name" : "valoran-app",
+          "link_href" : "https://valorant-farhan.vercel.app/"
+        }
+      ]
+    },
+    {
+      "year" : "2023",
       "project" : "Website CMS Semina",
       "made" : "Build With Angga",
       "stack": ["ReactJs", "ExpressJS", "NodeJs", "MongoDB", "Redux", "Bootstrap5", "Javascript"],
@@ -16,7 +40,7 @@
       "year" : "2023",
       "project" : "Landingpage Semina",
       "made" : "Build With Angga",
-      "stack": ["Next JS", "ReactJs", "Javascript", "Bootstrap5", "SCSS"],
+      "stack": ["NextJs", "ReactJs", "Javascript", "Bootstrap5", "SCSS"],
       "link" : [
         {
           "name" : "fe-landingpage-semina",
