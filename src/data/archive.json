@@ -1,6 +1,18 @@
 {
   "archives" : [
     {
+      "year" : "2024",
+      "project" : "Jadoo App Travel Landing Page",
+      "made" : "Goalabz Yein Narayana",
+      "stack": ["ReactJs", "NextJs", "TailwindCss"],
+      "link" : [
+        {
+          "name" : "jadoo-app-travel",
+          "link_href" : "https://jadoo-app-travel-landing-page.vercel.app/"
+        }
+      ]
+    },
+    {
       "year" : "2023",
       "project" : "Social Media App",
       "made" : "Youtube Channel",
@@ -75,7 +87,7 @@
     {
       "year" : "2022",
       "project" : "E-Commerce UI Slicing",
-      "made" : "",
+      "made" : "Slicing Figma",
       "stack": ["ReactJs", "TailwindCss", "Javascript"],
       "link" : [
         {
@@ -87,7 +99,7 @@
     {
       "year" : "2022",
       "project" : "Simple Landing Page",
-      "made" : "Shandika Galih",
+      "made" : "Web Programming Unpas",
       "stack": ["HTML 5", "CSS", "Javascript"],
       "link" : [
         {
@@ -99,7 +111,7 @@
     {
       "year" : "2022",
       "project" : "Farhan Landingpage",
-      "made" : "Shandika Galih",
+      "made" : "Web Programming Unpas",
       "stack": ["HTML 5", "CSS", "Javascript"],
       "link" : [
         {
@@ -123,7 +135,7 @@
     {
       "year" : "2022",
       "project" : "Portofolio v1 learn slicing",
-      "made" : "",
+      "made" : "Web Programming Unpas",
       "stack": ["HTML 5", "TailwindCss", "Javascript"],
       "link" : [
         {
@@ -147,7 +159,7 @@
     {
       "year" : "2021",
       "project" : "Real Estate Farhan",
-      "made" : "",
+      "made" : "Slicing Figma",
       "stack": ["Html", "TailwindCss", "Javascript"],
       "link" : [
         {

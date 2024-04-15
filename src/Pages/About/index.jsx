@@ -17,7 +17,7 @@ export default function index() {
           <a className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 cursor-pointer" target="_blank" rel="noreferrer">
             Universitas Nasional Pasim Bandung,
           </a>{" "}
-          majoring in Informatics Engineering, I am currently in <span className="block">my 7th semester.</span>{" "}
+          majoring in Informatics Engineering, I am currently in <span className="block">my 8th semester.</span>{" "}
         </p>
 
         <p className="mb-4 mx-4">
@@ -37,7 +37,7 @@ export default function index() {
         </p>
 
         <p className="mb-4 mx-4">
-          Currently I have been working in the online shop sector for 5 years and 6 months, starting from managing Fanspage Facebook, researching products, creating websites with{" "}
+          Currently I have been working in the online shop sector for 5 years and 9 months, starting from managing Fanspage Facebook, researching products, creating websites with{" "}
           <a className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 cursor-pointer" target="_blank" rel="noreferrer">
             Elementor,
           </a>{" "}
